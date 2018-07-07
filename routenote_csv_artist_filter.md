@@ -11,6 +11,6 @@ until i do here are the basic step instructions to obtain it:
 
 * select column C and insert the name of the artist
 
-* scroll to borrom
+* scroll to bottom
 
-* insert formula =subtotal(9, O1:O<lastrow>);
+* insert formula =subtotal(9;O1:Olastrow)
