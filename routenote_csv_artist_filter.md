@@ -14,3 +14,5 @@ until i do here are the basic step instructions to obtain it:
 * scroll to bottom
 
 * insert formula =subtotal(9;O1:Olastrow)
+
+* =SUMIF(J1:J2594, "USD", O1:O2594)
